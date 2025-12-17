@@ -9,7 +9,7 @@ Hi! I’m **Yohaan**, a high school student and aspiring software developer. I e
 - **Tools & Platforms:** Git, GitHub, CLI tools, VSCode, Notion
 - **Other Interests:** Reading, piano, tennis
 
-## ⚡ Workflow & Setup
+## ⚡ Setup & Tools
 - **Editor & Notes:** VSCode, Notion
 - **AI & Productivity Tools:** Claude Sonnet, Bitwarden, Arc (browser)
 - **Hardware:** M1 13-inch MacBook Pro
