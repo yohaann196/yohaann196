@@ -1,16 +1,22 @@
-## Hi there 👋
+# About Me – Yohaan
 
-<!--
-**yohaann196/yohaann196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+Hi! I’m **Yohaan**, a high school student and aspiring software developer. I enjoy exploring programming through small projects and experimenting with languages like **Python** and **JavaScript**.
 
-Here are some ideas to get you started:
+## 💻 Skills & Technologies
+- **Programming Languages:** Python, JavaScript
+- **Web Development:** HTML, CSS, Node.js (basics)
+- **Tools & Platforms:** Git, GitHub, CLI tools, VSCode, Notion
+- **Other Interests:** Reading, piano, tennis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Workflow & Setup
+- **Editor & Notes:** VSCode, Notion
+- **AI & Productivity Tools:** Claude Sonnet, Bitwarden
+- **Hardware:** M1 13-inch MacBook Pro
+
+## 🛠️ Language Proficiency
+- **Python (45–50%)** Familiar with scripting, automation, and core language fundamentals
+- **JavaScript (20%)** Familiar with the basics such as arrays, loops, and simple functions
+- **HTML & CSS (80–85%)** Comfortable building static pages and styling layouts
+
+*Most of my projects focus on learning and experimentation rather than large-scale production. I am actively improving my skills and adding more work to GitHub over time.*
