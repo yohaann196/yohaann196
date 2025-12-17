@@ -11,7 +11,7 @@ Hi! I’m **Yohaan**, a high school student and aspiring software developer. I e
 
 ## ⚡ Workflow & Setup
 - **Editor & Notes:** VSCode, Notion
-- **AI & Productivity Tools:** Claude Sonnet, Bitwarden
+- **AI & Productivity Tools:** Claude Sonnet, Bitwarden, Arc (browser)
 - **Hardware:** M1 13-inch MacBook Pro
 
 ## 🛠️ Language Proficiency
