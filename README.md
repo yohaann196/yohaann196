@@ -17,6 +17,7 @@ Hi! I’m **Yohaan**, a high school student and aspiring software developer. I e
 ## 🛠️ Language Proficiency [% = my fluency with the language]
 - **Python (45–50%)** Familiar with scripting, automation, and core language fundamentals
 - **JavaScript/TypeScript (20%)** Familiar with the basics such as arrays, loops, and simple functions
-- **HTML & CSS (80–85%)** Comfortable building static pages and styling layouts
+- **HTML (100%)** Comfortable with webpages/layout creation.
+- **CSS (50%)** Can add basic colors, fonts, and designs to webpages. [margin, padding, display, flex, grid]
 
 *Most of my projects focus on learning and experimentation rather than large-scale production. I am actively improving my skills and adding more work to GitHub over time.*
