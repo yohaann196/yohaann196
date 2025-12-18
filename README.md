@@ -14,7 +14,7 @@ Hi! I’m **Yohaan**, a high school student and aspiring software developer. I e
 - **AI & Productivity Tools:** Claude Sonnet, Bitwarden, Arc (browser)
 - **Hardware:** M1 13-inch MacBook Pro
 
-## 🛠️ Language Proficiency
+## 🛠️ Language Proficiency [% = my fluency with the language]
 - **Python (45–50%)** Familiar with scripting, automation, and core language fundamentals
 - **JavaScript (20%)** Familiar with the basics such as arrays, loops, and simple functions
 - **HTML & CSS (80–85%)** Comfortable building static pages and styling layouts
