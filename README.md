@@ -1,7 +1,7 @@
 # About Me – Yohaan
 
 ## About Me
-Hi! I’m **Yohaan**, a high school student and aspiring software developer. I enjoy exploring programming through small projects and experimenting with languages like **Python** and **JavaScript**.
+Hi! I’m **Yohaan**, a high school student. I enjoy exploring programming through small projects and experimenting with languages [**Python** and **JavaScript**].
 
 ## Skills & Technologies
 - **Programming Languages:** Python, JavaScript/TypeScript
