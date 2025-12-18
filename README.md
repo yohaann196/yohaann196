@@ -4,7 +4,7 @@
 Hi! I’m **Yohaan**, a high school student and aspiring software developer. I enjoy exploring programming through small projects and experimenting with languages like **Python** and **JavaScript**.
 
 ## 💻 Skills & Technologies
-- **Programming Languages:** Python, JavaScript
+- **Programming Languages:** Python, JavaScript/TypeScript
 - **Web Development:** HTML, CSS, Node.js (basics)
 - **Tools & Platforms:** Git, GitHub, CLI tools, VSCode, Notion
 - **Other Interests:** Reading, piano, tennis
@@ -16,7 +16,7 @@ Hi! I’m **Yohaan**, a high school student and aspiring software developer. I e
 
 ## 🛠️ Language Proficiency [% = my fluency with the language]
 - **Python (45–50%)** Familiar with scripting, automation, and core language fundamentals
-- **JavaScript (20%)** Familiar with the basics such as arrays, loops, and simple functions
+- **JavaScript/TypeScript (20%)** Familiar with the basics such as arrays, loops, and simple functions
 - **HTML & CSS (80–85%)** Comfortable building static pages and styling layouts
 
 *Most of my projects focus on learning and experimentation rather than large-scale production. I am actively improving my skills and adding more work to GitHub over time.*
