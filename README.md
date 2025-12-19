@@ -1,7 +1,32 @@
-# About Me – Yohaan
+# <p align="center">Yohaan Narayanan</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bitwarden-000000?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Bitwarden"/>
+  <img src="https://img.shields.io/badge/Claude-FF6B6B?style=for-the-badge&logo=custom&logoColor=white" alt="Claude Sonnet"/>
+  <img src="https://img.shields.io/badge/Arc Browser-FF6600?style=for-the-badge&logo=custom&logoColor=white" alt="Arc Browser"/>
+</p>
+
+---
 
 ## About Me
 Hi! I’m **Yohaan**, a high school student. I enjoy exploring programming through small projects and experimenting with languages [**Python** and **JavaScript**].
+
+---
 
 ## Skills & Technologies
 - **Programming Languages:** Python, JavaScript/TypeScript
@@ -9,15 +34,21 @@ Hi! I’m **Yohaan**, a high school student. I enjoy exploring programming throu
 - **Tools & Platforms:** Git, GitHub, CLI tools, VSCode, Notion
 - **Other Interests:** Reading, piano, tennis
 
+---
+
 ## Setup & Tools
 - **Editor & Notes:** VSCode, Notion
 - **AI & Productivity Tools:** Claude Sonnet, Bitwarden, Arc (browser)
 - **Hardware:** M1 13-inch MacBook Pro
 
-## Language Proficiency [% = my fluency with the language]
-- **Python (45–50%)** Familiar with scripting, automation, and core language fundamentals
-- **JavaScript/TypeScript (20%)** Familiar with the basics such as arrays, loops, and simple functions
-- **HTML (100%)** Comfortable with webpages/layout creation.
-- **CSS (50%)** Can add basic colors, fonts, and designs to webpages. [margin, padding, display, flex, grid]
+---
 
-*Most of my projects focus on learning and experimentation rather than large-scale production. I am actively improving my skills and adding more work to GitHub over time.*
+## Language Proficiency [% = my fluency with the language]
+- **Python (65%)** Familiar with scripting, automation, and core language fundamentals
+- **JavaScript/TypeScript (10%)** Familiar with the basics such as arrays, loops, and simple functions
+- **HTML (100%)** Very comfortable with webpages/layout creation.
+- **CSS (60%)** Can add basic colors, fonts, and designs to webpages. [margin, padding, display, flex, grid]
+
+---
+
+*Most of my projects focus on learning and experimentation rather than large-scale production. I am actively improving my skills and migrating more work to GitHub over time.*
