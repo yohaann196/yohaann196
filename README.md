@@ -51,4 +51,4 @@ Hi! I’m **Yohaan**, a high school student. I enjoy exploring programming throu
 
 ---
 
-*Most of my projects focus on learning and experimentation rather than large-scale production. I am actively improving my skills and migrating more work to GitHub over time.*
+*I am migrating more work to GitHub over time.*
