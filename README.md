@@ -10,6 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
@@ -24,13 +25,14 @@
 ---
 
 ## About Me
-Hi! I’m **Yohaan**, a high school student. I enjoy exploring programming through small projects and experimenting with languages [**Python** and **JavaScript**].
+Hi! I’m **Yohaan**, a high school student. I enjoy exploring programming through small projects and experimenting with languages (**Python** and **JavaScript**).
 
 ---
 
 ## Skills & Technologies
 - **Programming Languages:** Python, JavaScript/TypeScript
 - **Web Development:** HTML, CSS, Node.js (basics)
+- **Backend & Databases:** Supabase (auth, database, basic API usage)
 - **Tools & Platforms:** Git, GitHub, CLI tools, VSCode, Notion
 - **Other Interests:** Reading, piano, tennis
 
@@ -46,8 +48,8 @@ Hi! I’m **Yohaan**, a high school student. I enjoy exploring programming throu
 ## Language Proficiency [% = my fluency with the language]
 - **Python (65%)** Familiar with scripting, automation, and core language fundamentals
 - **JavaScript/TypeScript (10%)** Familiar with the basics such as arrays, loops, and simple functions
-- **HTML (100%)** Very comfortable with webpages/layout creation.
-- **CSS (60%)** Can add basic colors, fonts, and designs to webpages. [margin, padding, display, flex, grid]
+- **HTML (100%)** Very comfortable with webpages and layout creation
+- **CSS (60%)** Can add basic colors, fonts, and designs to webpages (margin, padding, display, flex, grid)
 
 ---
 
