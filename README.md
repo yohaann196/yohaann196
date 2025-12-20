@@ -17,7 +17,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bitwarden-000000?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Bitwarden"/>
   <img src="https://img.shields.io/badge/Claude-FF6B6B?style=for-the-badge&logo=custom&logoColor=white" alt="Claude Sonnet"/>
   <img src="https://img.shields.io/badge/Arc Browser-FF6600?style=for-the-badge&logo=custom&logoColor=white" alt="Arc Browser"/>
 </p>
@@ -40,16 +39,26 @@ Hi! I’m **Yohaan**, a high school student. I enjoy exploring programming throu
 
 ## Setup & Tools
 - **Editor & Notes:** VSCode, Notion
-- **AI & Productivity Tools:** Claude Sonnet, Bitwarden, Arc (browser)
-- **Hardware:** M1 13-inch MacBook Pro
+- **AI & Productivity Tools:** Claude Sonnet, Arc (browser)
+- **Hardware:** M1 13-inch MacBook Pro, M4 11-inch iPad Pro
 
 ---
 
-## Language Proficiency [% = my fluency with the language]
-- **Python (65%)** Familiar with scripting, automation, and core language fundamentals
-- **JavaScript/TypeScript (10%)** Familiar with the basics such as arrays, loops, and simple functions
-- **HTML (100%)** Very comfortable with webpages and layout creation
-- **CSS (60%)** Can add basic colors, fonts, and designs to webpages (margin, padding, display, flex, grid)
+## Language Proficiency
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-New/Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-New/Learning-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/C%23-Intermediate-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+</p>
+
+- **Python**: Familiar with scripting, automation, and core language fundamentals  
+- **JavaScript/TypeScript**: Familiar with the basics such as arrays, loops, and simple functions  
+- **HTML**: Very comfortable with webpages and layout creation  
+- **CSS**: Can add basic colors, fonts, and designs to webpages (margin, padding, display, flex, grid)  
+- **C#**: Proficient in C# for Unity game development, including gameplay scripting, UI, and physics.
 
 ---
 
