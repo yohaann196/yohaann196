@@ -63,3 +63,4 @@ Hi! I’m **Yohaan**, a high school student. I enjoy exploring programming throu
 ---
 
 *I am migrating more work to GitHub over time.*
+*"You can use an eraser on the drafting table or a sledgehammer on the construction site"*
