@@ -44,23 +44,13 @@ Hi! I’m **Yohaan**, a high school student. I enjoy exploring programming throu
 
 ## Language Proficiency
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-Advanced-10B981?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-Advanced-10B981?style=for-the-badge&logo=css3&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Python-Intermediate-3B82F6?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-Intermediate-3B82F6?style=for-the-badge&logo=c-sharp&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/JavaScript-Beginner-F59E0B?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-Beginner-F59E0B?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
 
 **Capabilities**
-- **Python:** scripting, automation, and core language fundamentals  
-- **JavaScript / TypeScript:** variables, arrays, loops, conditionals, simple functions  
-- **HTML:** structured webpages and layout creation  
-- **CSS:** styling, responsiveness, flexbox, grid  
-- **C#:** Unity gameplay scripting, UI, and physics basics  
+- **Python: (intermediate)** scripting, automation, and core language fundamentals  
+- **JavaScript / TypeScript: (beginner)** variables, arrays, loops, conditionals, simple functions  
+- **HTML: (mastered)** structured webpages and layout creation  
+- **CSS: (mastered)** styling, responsiveness, flexbox, grid  
+- **C#: (intermediate)** Unity gameplay scripting, UI, and physics basics  
 
 ---
 
