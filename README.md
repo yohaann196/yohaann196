@@ -45,16 +45,23 @@ Hi! I’m **Yohaan**, a high school student. I enjoy exploring programming throu
 ---
 
 ## Language Proficiency
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-New/Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-New/Learning-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/C%23-Intermediate-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <!-- Advanced -->
+  <img src="https://img.shields.io/badge/HTML-Advanced-10B981?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-Advanced-10B981?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+
+  <!-- Intermediate -->
+  <img src="https://img.shields.io/badge/Python-Intermediate-3B82F6?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-Intermediate-3B82F6?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+
+  <!-- Beginner -->
+  <img src="https://img.shields.io/badge/JavaScript-Beginner-6B7280?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-Beginner-6B7280?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
-- **Python**: Familiar with scripting, automation, and core language fundamentals  
+**Capabilities**
+- **Python**: Familiar with scripting, automation, and fundamentals  
 - **JavaScript/TypeScript**: Familiar with the basics such as arrays, loops, and simple functions  
 - **HTML**: Very comfortable with webpages and layout creation  
 - **CSS**: Can add basic colors, fonts, and designs to webpages (margin, padding, display, flex, grid)  
