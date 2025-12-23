@@ -54,4 +54,4 @@ Hi! I’m **Yohaan**, a high school student. I enjoy programming through small p
 
 ---
 
-*"Age is something that doesn't matter, unless you are a cheese. :)"*
+*not all my projects are on Github but i am migrating them here over time*
