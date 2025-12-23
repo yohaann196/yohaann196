@@ -27,7 +27,7 @@
 ---
 
 ## About Me
-Hi! I’m **Yohaan**, a high school student. I enjoy exploring programming through small projects and experimenting with languages, mainly **Python** and **JavaScript**. I do game developing with **Unity**, **Blender**, and **Maya**.
+Hi! I’m **Yohaan**, a high school student. I enjoy programming through small projects and experimenting with mainly **Python** and **JavaScript**. I do game dev with **Unity**, **Blender**, and **Maya**.
 
 ---
 
@@ -46,7 +46,7 @@ Hi! I’m **Yohaan**, a high school student. I enjoy exploring programming throu
 
 
 **Capabilities**
-- **Python: (intermediate)** scripting, automation, and core language fundamentals  
+- **Python: (intermediate)** scripting, automation, and fundamentals, learning AI/ML.
 - **JavaScript / TypeScript: (beginner)** variables, arrays, loops, conditionals, simple functions  
 - **HTML: (mastered)** structured webpages and layout creation  
 - **CSS: (mastered)** styling, responsiveness, flexbox, grid  
