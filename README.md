@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin:3px"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" style="margin:3px"/>
   <img src="https://img.shields.io/badge/Claude_Sonnet-FF6B6B?style=for-the-badge&logo=custom&logoColor=white" alt="Claude Sonnet" style="margin:3px"/>
-  <img src="https://img.shields.io/badge/Arc_Browser-FF6600?style=for-the-badge&logo=custom&logoColor=white" alt="Arc Browser" style="margin:3px"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" style="margin:3px"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" style="margin:3px"/>
   <img src="https://img.shields.io/badge/BeautifulSoup-FF9900?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" style="margin:3px"/>
@@ -41,7 +40,7 @@ Hi! I’m **Yohaan**, a high school student. I enjoy programming through small p
 - **Backend & Databases:** Supabase
 - **Libraries & Tools:** TensorFlow, Selenium, BeautifulSoup
 - **Video & Photo Editing:** CapCut, GIMP
-- **Other Tools & Platforms:** Git, GitHub, VS Code, Notion, Claude Sonnet, Arc Browser
+- **Other Tools & Platforms:** Git, GitHub, VS Code, Notion, Claude Sonnet
 
 ---
 
