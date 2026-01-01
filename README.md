@@ -27,7 +27,7 @@
 ---
 
 ## About Me
-Hi! I’m **Yohaan**, a high school student. I enjoy programming through small projects and experimenting with mainly **Python** and **JavaScript**. I do game dev with **Unity**, **Blender**, and **Maya**.
+Hi! I’m **Yohaan**, a high school student. I enjoy programming through small projects and experimenting with mainly **Python** and **JavaScript**. I do game dev with **Unity** and **Blender**.
 
 ---
 
@@ -35,7 +35,7 @@ Hi! I’m **Yohaan**, a high school student. I enjoy programming through small p
 - **Programming Languages:** Python, JavaScript, TypeScript, C#
 - **Web Development:** HTML, CSS, basic Node.js
 - **Game Development:** Unity
-- **3D & Design:** Blender, Maya
+- **3D & Design:** Blender
 - **Backend & Databases:** Supabase
 - **Libraries & Tools:** TensorFlow, Selenium, BeautifulSoup
 - **Video & Photo Editing:** CapCut, GIMP
