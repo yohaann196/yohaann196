@@ -11,7 +11,6 @@
   <!-- Tools & Libraries -->
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" style="margin:3px"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" style="margin:3px"/>
-  <img src="https://img.shields.io/badge/Maya-00AEEF?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya" style="margin:3px"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin:3px"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin:3px"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" style="margin:3px"/>
