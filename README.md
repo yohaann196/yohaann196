@@ -47,7 +47,7 @@ Hi! I’m **Yohaan**, a high school student. I enjoy programming through small p
 
 **Capabilities**
 - **Python (intermediate):** scripting, automation, AI/ML experiments  
-- **JavaScript / TypeScript (beginner):** variables, arrays, loops, conditionals, simple functions  
+- **JavaScript / TypeScript (beginner):** variables, arrays, loops, conditionals, simple functions. Learning FWs [React, Svelte].  
 - **HTML (mastered):** structured webpages and layout creation  
 - **CSS (mastered):** styling, responsiveness, flexbox, grid  
 - **C# (intermediate):** Unity gameplay scripting, UI, and physics basics  
