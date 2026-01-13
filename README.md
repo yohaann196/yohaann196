@@ -1,5 +1,7 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=High+School+Developer;JavaScript+%7C+Python+%7C+C%23;Unity+Game+Developer)](https://github.com/yohaann196)
+  <a href="https://github.com/yohaann196">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=High+School+Developer;JavaScript+%7C+Python+%7C+C%23;Unity+Game+Developer" alt="Typing SVG" />
+  </a>
 </div>
 
 <h1 align="center">Yohaan Narayanan</h1>
@@ -20,34 +22,39 @@
 ---
 
 ## About Me
-Hi! I'm Yohaan, a high school student who enjoys programming in Python, JavaScript, and C# for Game and Web Development.
+Hi! I'm Yohaan, a high school student who enjoys programming in Python, JavaScript, and C# for Game and Web Development. Currently learning AI (ML/DL).
 
 ---
 
-## Skills & Technologies
-- **Programming Languages:** Python, JavaScript, TypeScript, C#
-- **Web Development:** HTML, CSS, basic Node.js
-- **Game Development:** Unity
-- **3D & Design:** Blender
-- **Backend & Databases:** Supabase
-- **Libraries & Tools:** TensorFlow
-- **Other Tools & Platforms:** Git, GitHub, VS Code
+## Libraries & Frameworks
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## My Setup
 
 **Hardware**
-- 💻 MacBook Pro 16" (M4)
-- 📱 iPad Pro 11" (M4)
-- 🖱️ Apple Magic Mouse
-- 🎧 Beats Studio Pro
-
-**Software & Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Claude_AI-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/>
+  <img src="https://img.shields.io/badge/MacBook_Pro_16%22-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook Pro"/>
+  <img src="https://img.shields.io/badge/iPad_Pro_11%22-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iPad Pro"/>
+  <img src="https://img.shields.io/badge/Magic_Mouse-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Magic Mouse"/>
+  <img src="https://img.shields.io/badge/Beats_Studio_Pro-000000?style=for-the-badge&logo=beatsbydre&logoColor=white" alt="Beats Studio Pro"/>
 </p>
 
 ---
@@ -60,7 +67,5 @@ Hi! I'm Yohaan, a high school student who enjoys programming in Python, JavaScri
 ---
 
 <div align="center">
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
