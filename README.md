@@ -15,12 +15,10 @@
 
 
 ## About Me
-Hi! I'm Yohaan, a high school student building web applications using Python and JavaScript with React. I also experiment with AI.
+Hi! I'm Yohaan, a high school student building web applications using Python and JavaScript with React, Node.js, and Next.js. I also experiment with AI :)
 
 
 ## My Setup
-
-**Hardware**
 <p align="left">
   <img src="https://img.shields.io/badge/MacBook_Pro_16%22-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook Pro"/>
   <img src="https://img.shields.io/badge/iPad_Pro_11%22-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iPad Pro"/>
