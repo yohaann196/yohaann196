@@ -18,19 +18,6 @@
 Hi! I'm Yohaan, a high school student building web applications using Python and JavaScript with React. I also experiment with AI.
 
 
-## Libraries & Frameworks
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
 ## My Setup
 
 **Hardware**
