@@ -7,12 +7,12 @@
     <b><!--YEARS-->1<!--/YEARS-->+ years</b> of coding experience&nbsp;•&nbsp;<!--REPOS-->18<!--/REPOS--> public repos on GitHub
   </p>
 
-  <h3>⚙️ Languages & Frameworks</h3>
+  <h3>Languages & Frameworks</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,nextjs,vue,vite" />
   </p>
 
-  <h3>🛠️ Tools & Setup</h3>
+  <h3>Tools & Setup</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
   </p>
