@@ -4,7 +4,7 @@
   <p>
     High School Developer&nbsp;•&nbsp;Python &amp; JavaScript&nbsp;•&nbsp;React, Node.js, Next.js, Vue, Vite&nbsp;•&nbsp;AI/ML/DL
     <br/>
-    <b><!--YEARS-->X<!--/YEARS-->+ years</b> of coding experience&nbsp;•&nbsp;<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyohaann196&query=%24.public_repos&label=public%20repos&color=0f6fef&style=flat-square" alt="Public Repos" /> on GitHub
+    <b><!--YEARS-->1<!--/YEARS-->+ years</b> of coding experience&nbsp;•&nbsp;<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyohaann196&query=%24.public_repos&label=public%20repos&color=0f6fef&style=flat-square" alt="Public Repos" /> on GitHub
   </p>
 
   <h3>⚙️ Languages & Frameworks</h3>
