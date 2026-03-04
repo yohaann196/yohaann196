@@ -4,7 +4,7 @@
   <p>
     High School Developer&nbsp;•&nbsp;Python &amp; JavaScript&nbsp;•&nbsp;React, Node.js, Next.js, Vue, Vite&nbsp;•&nbsp;AI/ML/DL
     <br/>
-    <b><!--YEARS-->X<!--/YEARS-->+ years</b> of coding experience&nbsp;•&nbsp;<!--REPOS-->X<!--/REPOS--> public repos on GitHub
+    <b><!--YEARS-->1<!--/YEARS-->+ years</b> of coding experience&nbsp;•&nbsp;<!--REPOS-->18<!--/REPOS--> public repos on GitHub
   </p>
 
   <h3>⚙️ Languages & Frameworks</h3>
