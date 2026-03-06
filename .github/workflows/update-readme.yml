@@ -24,10 +24,18 @@ jobs:
             "https://api.github.com/user/repos?per_page=100&type=all" \
             | jq -r '.[].full_name')
           for REPO in $REPO_NAMES; do
-            COUNT=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
+            HEADERS=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
               "https://api.github.com/repos/$REPO/commits?author=yohaann196&per_page=1" \
-              -I | grep -i "link:" | grep -oP 'page=\K[0-9]+(?=>; rel="last")' || echo 0)
-            COMMITS=$((COMMITS + ${COUNT:-0}))
+              -I)
+            LAST_PAGE=$(echo "$HEADERS" | grep -i "link:" | grep -oP 'page=\K[0-9]+(?=>; rel="last")' || echo "")
+            if [ -z "$LAST_PAGE" ]; then
+              HAS_COMMIT=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
+                "https://api.github.com/repos/$REPO/commits?author=yohaann196&per_page=1" \
+                | jq -r 'if length > 0 then "1" else "0" end')
+              COMMITS=$((COMMITS + HAS_COMMIT))
+            else
+              COMMITS=$((COMMITS + LAST_PAGE))
+            fi
           done
           sed -i "s|<!--YEARS-->.*<!--/YEARS-->|<!--YEARS-->$YEARS<!--/YEARS-->|g" README.md
           sed -i "s|<!--REPOS-->.*<!--/REPOS-->|<!--REPOS-->$REPOS<!--/REPOS-->|g" README.md
