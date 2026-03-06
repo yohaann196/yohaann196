@@ -24,9 +24,12 @@ jobs:
             YEAR_COMMITS=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
               -H "Content-Type: application/json" \
               -X POST \
-              -d "{\"query\": \"{ user(login: \\\"yohaann196\\\") { contributionsCollection(from: \\\"${YEAR}-01-01T00:00:00Z\\\", to: \\\"${YEAR}-12-31T23:59:59Z\\\") { totalCommitContributions restrictedContributionsCount } } }\"}" \
+              -d "{\"query\": \"{ user(login: \\\"yohaann196\\\") { contributionsCollection(from: \\\"${YEAR}-01-01T00:00:00Z\\\", to: \\\"${YEAR}-12-31T23:59:59Z\\\") { totalCommitContributions restrictedContributionsCount commitContributionsByRepository { contributions { totalCount } } } } }\"}" \
               https://api.github.com/graphql \
-              | jq -r '.data.user.contributionsCollection.totalCommitContributions + .data.user.contributionsCollection.restrictedContributionsCount')
+              | jq -r '
+                .data.user.contributionsCollection |
+                .totalCommitContributions + .restrictedContributionsCount
+              ')
             COMMITS=$((COMMITS + ${YEAR_COMMITS:-0}))
           done
           sed -i "s|<!--YEARS-->.*<!--/YEARS-->|<!--YEARS-->$YEARS<!--/YEARS-->|g" README.md
