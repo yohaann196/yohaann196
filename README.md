@@ -4,9 +4,9 @@
   <p>
     High School Developer&nbsp;•&nbsp;Python &amp; JavaScript&nbsp;•&nbsp;React, Node.js, Next.js, Vue, Vite&nbsp;•&nbsp;AI/ML/DL
     <br/>
-    <b><!--YEARS-->1<!--/YEARS-->+ years</b> of coding experience&nbsp;•&nbsp;<!--REPOS-->18<!--/REPOS--> public repos on GitHub
+    <b><!--YEARS-->1<!--/YEARS-->+ years</b> of coding experience&nbsp;•&nbsp;<!--REPOS-->19<!--/REPOS--> public repos on GitHub
   </p>
-<b><!--COMMITS-->0<!--/COMMITS-->+</b> total commits
+<b><!--COMMITS-->128<!--/COMMITS-->+</b> total commits
   <h3>Languages & Frameworks</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,nextjs,vue,vite" />
