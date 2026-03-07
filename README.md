@@ -6,7 +6,7 @@
     <br/>
     <b><!--YEARS-->1<!--/YEARS-->+ years</b> of coding experience&nbsp;•&nbsp;<!--REPOS-->19<!--/REPOS--> public repos on GitHub
   </p>
-<b><!--COMMITS-->146<!--/COMMITS--></b> total commits. I work on my own projects and also contribute to Open-Source Software.
+<b><!--COMMITS-->218<!--/COMMITS--></b> total commits. I work on my own projects and also contribute to Open-Source Software.
   <h3>Languages & Frameworks</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,nextjs,vue,vite" />
