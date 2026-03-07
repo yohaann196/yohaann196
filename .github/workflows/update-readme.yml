@@ -13,9 +13,6 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Install jq
-        run: sudo apt-get install jq
-
       - name: Fetch GitHub data and update README
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
@@ -34,9 +31,9 @@ jobs:
           COMMITS=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
             -H "Content-Type: application/json" \
             -X POST \
-            -d "{\"query\": \"{ user(login: \\\"$USERNAME\\\") { repositories(first: 100, ownerAffiliations: OWNER) { nodes { defaultBranchRef { target { ... on Commit { history { totalCount } } } } } } } }\"}" \
+            -d "{\"query\": \"{ user(login: \\\"$USERNAME\\\") { contributionsCollection { totalCommitContributions } } }\"}" \
             https://api.github.com/graphql \
-            | jq '[.data.user.repositories.nodes[].defaultBranchRef.target.history.totalCount] | add')
+            | jq -r '.data.user.contributionsCollection.totalCommitContributions')
 
           sed -i "s|<!--YEARS-->.*<!--/YEARS-->|<!--YEARS-->$YEARS<!--/YEARS-->|g" README.md
           sed -i "s|<!--REPOS-->.*<!--/REPOS-->|<!--REPOS-->$REPOS<!--/REPOS-->|g" README.md
