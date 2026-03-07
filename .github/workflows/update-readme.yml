@@ -1,44 +1,49 @@
 name: Update README Experience
+
 on:
   schedule:
-    - cron: '0 0 1 * *'
+    - cron: "0 0 1 * *"
   workflow_dispatch:
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-      - name: Fetch GitHub data + update README
+
+      - name: Fetch GitHub data and update README
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          RESPONSE=$(curl -s -H "Authorization: Bearer $GH_TOKEN" https://api.github.com/users/yohaann196)
+          USERNAME="yohaann196"
+
+          RESPONSE=$(curl -s -H "Authorization: Bearer $GH_TOKEN" https://api.github.com/users/$USERNAME)
+
           CREATED_AT=$(echo $RESPONSE | jq -r '.created_at')
           JOIN_YEAR=$(echo $CREATED_AT | cut -d'-' -f1)
           CURRENT_YEAR=$(date +%Y)
           YEARS=$((CURRENT_YEAR - JOIN_YEAR))
+
           REPOS=$(echo $RESPONSE | jq -r '.public_repos')
-          COMMITS=0
-          for YEAR in $(seq $JOIN_YEAR $CURRENT_YEAR); do
-            YEAR_COMMITS=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
-              -H "Content-Type: application/json" \
-              -X POST \
-              -d "{\"query\": \"{ user(login: \\\"yohaann196\\\") { contributionsCollection(from: \\\"${YEAR}-01-01T00:00:00Z\\\", to: \\\"${YEAR}-12-31T23:59:59Z\\\") { totalCommitContributions restrictedContributionsCount commitContributionsByRepository { contributions { totalCount } } } } }\"}" \
-              https://api.github.com/graphql \
-              | jq -r '
-                .data.user.contributionsCollection |
-                .totalCommitContributions + .restrictedContributionsCount
-              ')
-            COMMITS=$((COMMITS + ${YEAR_COMMITS:-0}))
-          done
+
+          COMMITS=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Content-Type: application/json" \
+            -X POST \
+            -d "{\"query\": \"{ user(login: \\\"$USERNAME\\\") { contributionsCollection { totalCommitContributions } } }\"}" \
+            https://api.github.com/graphql \
+            | jq -r '.data.user.contributionsCollection.totalCommitContributions')
+
           sed -i "s|<!--YEARS-->.*<!--/YEARS-->|<!--YEARS-->$YEARS<!--/YEARS-->|g" README.md
           sed -i "s|<!--REPOS-->.*<!--/REPOS-->|<!--REPOS-->$REPOS<!--/REPOS-->|g" README.md
           sed -i "s|<!--COMMITS-->.*<!--/COMMITS-->|<!--COMMITS-->$COMMITS<!--/COMMITS-->|g" README.md
-      - name: Commit and push if changed
+
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add README.md
-          git diff --cached --quiet || git commit -m "chore: update years, repo count, and commits"
+          git diff --cached --quiet || git commit -m "chore: update README stats"
           git push
