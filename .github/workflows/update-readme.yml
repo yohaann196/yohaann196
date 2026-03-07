@@ -28,16 +28,16 @@ jobs:
 
           REPOS=$(echo $RESPONSE | jq -r '.public_repos')
 
-          COMMITS=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
+          CONTRIBUTIONS=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
             -H "Content-Type: application/json" \
             -X POST \
-            -d "{\"query\": \"{ user(login: \\\"$USERNAME\\\") { contributionsCollection { totalCommitContributions } } }\"}" \
+            -d "{\"query\": \"{ user(login: \\\"$USERNAME\\\") { contributionsCollection { contributionCalendar { totalContributions } } } }\"}" \
             https://api.github.com/graphql \
-            | jq -r '.data.user.contributionsCollection.totalCommitContributions')
+            | jq -r '.data.user.contributionsCollection.contributionCalendar.totalContributions')
 
           sed -i "s|<!--YEARS-->.*<!--/YEARS-->|<!--YEARS-->$YEARS<!--/YEARS-->|g" README.md
           sed -i "s|<!--REPOS-->.*<!--/REPOS-->|<!--REPOS-->$REPOS<!--/REPOS-->|g" README.md
-          sed -i "s|<!--COMMITS-->.*<!--/COMMITS-->|<!--COMMITS-->$COMMITS<!--/COMMITS-->|g" README.md
+          sed -i "s|<!--COMMITS-->.*<!--/COMMITS-->|<!--COMMITS-->$CONTRIBUTIONS<!--/COMMITS-->|g" README.md
 
       - name: Commit changes
         run: |
