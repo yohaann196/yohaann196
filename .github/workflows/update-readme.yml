@@ -35,9 +35,20 @@ jobs:
             https://api.github.com/graphql \
             | jq -r '.data.user.contributionsCollection.contributionCalendar.totalContributions')
 
+          # Format contributions (e.g., 4341 -> 4.3k, 4000 -> 4k)
+          if [ "$CONTRIBUTIONS" -ge 1000 ]; then
+            FORMATTED=$(awk "BEGIN {
+              val = $CONTRIBUTIONS/1000;
+              if (val == int(val)) printf \"%dk\", val;
+              else printf \"%.1fk\", val;
+            }")
+          else
+            FORMATTED=$CONTRIBUTIONS
+          fi
+
           sed -i "s|<!--YEARS-->.*<!--/YEARS-->|<!--YEARS-->$YEARS<!--/YEARS-->|g" README.md
           sed -i "s|<!--REPOS-->.*<!--/REPOS-->|<!--REPOS-->$REPOS<!--/REPOS-->|g" README.md
-          sed -i "s|<!--COMMITS-->.*<!--/COMMITS-->|<!--COMMITS-->$CONTRIBUTIONS<!--/COMMITS-->|g" README.md
+          sed -i "s|<!--COMMITS-->.*<!--/COMMITS-->|<!--COMMITS-->$FORMATTED<!--/COMMITS-->|g" README.md
 
       - name: Commit changes
         run: |
