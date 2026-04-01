@@ -4,7 +4,7 @@
   <p>
     High School Developer&nbsp;•&nbsp;Python &amp; JavaScript&nbsp;•&nbsp;React, Node.js, Next.js, Vue, Vite&nbsp;•&nbsp;AI/ML/DL
     <br/>
-    <b><!--YEARS-->1<!--/YEARS-->+ years</b> of coding experience&nbsp;•&nbsp;<!--REPOS-->37<!--/REPOS--> public repos on GitHub
+    <b><!--YEARS-->1<!--/YEARS-->+ years</b> of coding experience&nbsp;•&nbsp;<!--REPOS-->39<!--/REPOS--> public repos on GitHub
   </p>
 <b><!--COMMITS-->4.4k<!--/COMMITS--></b> total contributions. I work on my own projects and also contribute to Open-Source Software.
   <h3>Languages & Frameworks</h3>
