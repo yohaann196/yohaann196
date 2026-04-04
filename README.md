@@ -21,9 +21,10 @@
   </p>
 </div>
 
-<h3>Profiles</h3>
-* [Codewars](https://www.codewars.com/users/yohaann196) - for competitive coding practice
-* [LinkedIn](https://www.linkedin.com/in/yohaannarayanan/) - professional profile
+<h3><i>Profiles:</i></h3>
 
-Publications
-* [Article Title](https://placeholder.com) - brief description
+[Codewars](https://www.codewars.com/users/yohaann196) - for competitive coding practice
+
+[LinkedIn](https://www.linkedin.com/in/yohaannarayanan/) - professional profile
+
+[Publications](https://www.linkedin.com/in/yohaannarayanan/) - both a blog page and a page for academic/CS work.
