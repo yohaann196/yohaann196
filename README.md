@@ -19,13 +19,4 @@
     <img src="https://img.shields.io/badge/MacBook_Pro_M4-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook Pro M4" />
     <img src="https://img.shields.io/badge/Beats_Studio_Pro-FA0023?style=for-the-badge&logo=beats&logoColor=white" alt="Beats Studio Pro" />
   </p>
-  <h3>Profiles</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/yohaannarayanan/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.codewars.com/users/yohaann196">
-      <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
-    </a>
-  </p>
-</div>
+
