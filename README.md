@@ -19,4 +19,11 @@
     <img src="https://img.shields.io/badge/MacBook_Pro_M4-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook Pro M4" />
     <img src="https://img.shields.io/badge/Beats_Studio_Pro-FA0023?style=for-the-badge&logo=beats&logoColor=white" alt="Beats Studio Pro" />
   </p>
+</div>
 
+<h3>Profiles</h3>
+* [Codewars](https://www.codewars.com/users/yohaann196) - for competitive coding practice
+* [LinkedIn](https://www.linkedin.com/in/yohaannarayanan/) - professional profile
+
+Publications
+* [Article Title](https://placeholder.com) - brief description
