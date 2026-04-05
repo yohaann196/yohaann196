@@ -27,4 +27,4 @@
 
 [LinkedIn](https://www.linkedin.com/in/yohaannarayanan/) - professional profile
 
-[Publications](https://www.linkedin.com/in/yohaannarayanan/) - both a blog page and a page for academic/CS work.
+[Publications](https://yohaann196.github.io/my-publications-page/) - both a blog page and a page for academic/CS work.
