@@ -26,5 +26,3 @@
 [Codewars](https://www.codewars.com/users/yohaann196) - for competitive coding practice
 
 [LinkedIn](https://www.linkedin.com/in/yohaannarayanan/) - professional profile
-
-[Publications](https://yohaann196.github.io/my-publications-page/) - both a blog page and a page for academic/CS work.
