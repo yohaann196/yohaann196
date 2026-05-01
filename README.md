@@ -3,7 +3,7 @@
   <p>
     High School Developer&nbsp;•&nbsp;Python &amp; JavaScript&nbsp;•&nbsp;React, Node.js, Next.js, Vue, Vite
     <br/>
-    <b><!--YEARS-->1<!--/YEARS-->+ years</b> of coding experience&nbsp;•&nbsp;<!--REPOS-->39<!--/REPOS--> public repos on GitHub
+    <b><!--YEARS-->1<!--/YEARS-->+ years</b> of coding experience&nbsp;•&nbsp;<!--REPOS-->52<!--/REPOS--> public repos on GitHub
   </p>
 <b><!--COMMITS-->4.4k<!--/COMMITS--></b> total contributions.</div>
   <h3>Languages & Frameworks</h3>
