@@ -20,9 +20,3 @@
     <img src="https://img.shields.io/badge/Beats_Studio_Pro-FA0023?style=for-the-badge&logo=beats&logoColor=white" alt="Beats Studio Pro" />
   </p>
 </div>
-
-<h3><i>Profiles:</i></h3>
-
-[Codewars](https://www.codewars.com/users/yohaann196) - for competitive coding practice
-
-[LinkedIn](https://www.linkedin.com/in/yohaannarayanan/) - professional profile
