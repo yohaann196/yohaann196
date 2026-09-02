@@ -1,11 +1,6 @@
 <div align="center">
   <h1>Yohaan Narayanan</h1>
-  <p>
-    High School Developer&nbsp;•&nbsp;Python &amp; JavaScript&nbsp;•&nbsp;React, Node.js, Next.js, Vue, Vite
-    <br/>
-    <b><!--YEARS-->1<!--/YEARS-->+ years</b> of coding experience&nbsp;•&nbsp;<!--REPOS-->61<!--/REPOS--> public repos on GitHub
-  </p>
-<b><!--COMMITS-->3.3k<!--/COMMITS--></b> total contributions.</div>
+
   <h3>Languages & Frameworks</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,nextjs,vue,vite" />
